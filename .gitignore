@@ -1,0 +1,9 @@
+bin
+/*.project
+/*.classpath
+.idea
+/AlgorithmsPractice.iml
+out
+/target/
+.settings
+test-output
